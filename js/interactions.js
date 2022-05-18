@@ -8,4 +8,3 @@ const spanpassword = document.getElementById("span-password")
 
 
 spanpassword.innerHTML = `${password}`;
-console.dir(spanpassword);
