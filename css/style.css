@@ -9,6 +9,7 @@
     font-weight: 600;
 }
 
-.span-password {
-    font-size: 2rem;
+#span-password {
+    font-size: 3rem;
+    color: aqua;
 }
